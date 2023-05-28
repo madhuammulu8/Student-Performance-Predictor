@@ -10,7 +10,8 @@ import time
 st.write(""" 
 # Student Performance Predictor
 This app predicts if student is passed or Failed based on the perfomance
-checkout the code at Github : 
+
+checkout the code at Github : https://github.com/madhuammulu8/Student-Performance-Predictor/tree/main
 """)
 df = pd.read_csv("student_data.csv")
 
